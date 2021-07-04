@@ -1,0 +1,19 @@
+{
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+
+    "liveSassCompile.settings.generateMap":false,
+    "liveSassCompile.settings.formats":[
+        {
+            "format":"expanded",
+            "autoprefix":"last 5 versions",
+            "extensionName":".css",
+            "savePath":"/css"
+        }
+    ]
+}
